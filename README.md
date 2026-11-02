@@ -2,9 +2,9 @@
 
 A quiet place for Krishna darshan, aarti, flowers and fruit offerings.
 
-**In preparation for supported iPhones and iPads · Free**
+**Available for supported iPhones and iPads · Free**
 
-Mann Mandir is not yet available on the App Store. This is its public product, support and privacy repository. App source code and release materials are private.
+[Download Mann Mandir on the App Store](https://apps.apple.com/us/app/mann-mandir/id6829619459). This is its public product, support and privacy repository. App source code and release materials are private.
 
 - [Product page](https://pstarwars2026.github.io/mann-mandir/)
 - [Support](https://pstarwars2026.github.io/mann-mandir/support.html)

@@ -2,7 +2,7 @@
 
 [Read the support guide](https://pstarwars2026.github.io/mann-mandir/support.html) for opening the mandir, aarti, offerings, sound and keyboard controls.
 
-Mann Mandir is in preparation and is not yet available on the App Store. It is planned as a free app for supported iPhones and iPads, with folding features on supported Duo devices.
+Mann Mandir is a free app for supported iPhones and iPads, with folding features on supported Duo devices. [Download it on the App Store](https://apps.apple.com/us/app/mann-mandir/id6829619459).
 
 [Open a support issue](https://github.com/pstarwars2026/mann-mandir/issues/new/choose) with your device model, OS version, app version and a short description. Mention orientation and partially/fully open posture for folding issues.
 
